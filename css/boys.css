@@ -1,0 +1,14 @@
+/*General Properties*/
+body{
+    background-image: url("../images/bg.png");
+    background-repeat: repeat, no-repeat;
+    min-height: 100vh!important;
+    background-attachment: fixed;
+}
+
+.forms{
+    color: white;
+    width: auto!important;
+    height: auto!important;
+    text-align: center;   
+}
