@@ -13,7 +13,6 @@ if(isset($_POST['ON'])){
 ?>
 
 <html>
-
 <head>
     <title>Rasberry Pi 3</title>
     <meta charset="utf-8">
@@ -26,7 +25,7 @@ if(isset($_POST['ON'])){
         <h3>FAN</h3>
         <form method="POST">
             <button type="submit" id="ON" name="ON" value="ON">ON</button>
-            <button type="submit" id="OFF" name="ON" value="OFF">OFF</button>
+            <button type="submit" id="OFF" name="OFF" value="OFF">OFF</button>
         </form> 
     </div>
     <script src="script/jquery/jquery-3.3.1.min.js"></script>
